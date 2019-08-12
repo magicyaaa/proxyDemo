@@ -1,4 +1,4 @@
-package com.ya;
+package com.ya.proxy;
 
 /**
  * @program: proxyDemo

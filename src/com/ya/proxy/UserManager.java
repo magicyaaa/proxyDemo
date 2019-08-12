@@ -1,4 +1,4 @@
-package com.ya;
+package com.ya.proxy;
 
 public interface UserManager {
     void addUser(String userId, String userName);
